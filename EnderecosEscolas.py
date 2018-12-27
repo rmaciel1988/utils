@@ -11,7 +11,7 @@ def buscaCoordenadas(local):
 	    'address': local,
 	    'sensor': 'false',
 	    'region': 'br',
-	    'key' : 'AIzaSyBcOTfNswUNCq_2qGPxHwwjcV3ddKjC5Bc'
+	    'key' : 'INSERT YOUR KEY'
 	}
 	fl = []
 
